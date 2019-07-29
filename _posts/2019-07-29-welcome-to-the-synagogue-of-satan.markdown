@@ -5,7 +5,7 @@ date:   2019-07-29 14:32:20 +0300
 categories: blog update
 ---
 
-The Synagogue of Satan is not assosiated with the book with the same name. The Synagogue of Satan is not anti-semitic. The Synagogue of Satan is not Jewish or assosiate with any religion etc.
+The Synagogue of Satan is not assosiated with the book with the same name. The Synagogue of Satan is not anti-semitic.
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
