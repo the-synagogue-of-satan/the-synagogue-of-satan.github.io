@@ -1,2 +1,2 @@
 # the-synagogue-of-satan.github.io
-website
+temporary jekyll website 
