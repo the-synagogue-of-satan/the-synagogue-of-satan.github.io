@@ -7,7 +7,7 @@ description: >- # `>-` means to ignore newlines until "baseurl:"
   cosmos that is indifferent to our existence.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://the-synagogue-of-satan.github.io"
-twitter_username: syn.of.satan
+twitter_username: synofsatan
 github_username:  the-synagogue-of-satan
 
 # Build settings
@@ -16,25 +16,3 @@ theme: minima
 plugins:
   - jekyll-feed
 
-
-
-
-
-
-
-
-
-
-
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
