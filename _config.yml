@@ -1,10 +1,11 @@
-# Main config file
+# tmp
 
-title: 𝕿𝖍𝖊 𝕾𝖞𝖓𝖆𝖌𝖔𝖌𝖚𝖊 𝖔𝖋 𝕾𝖆𝖙𝖆𝖓 👹
+# Main config file
+title: 𝕿𝖍𝖊 𝕾𝖞𝖓𝖆𝖌𝖔𝖌𝖚𝖊 𝖔𝖋 𝕾𝖆𝖙𝖆𝖓
 email: syn.of.satan@gmail.com
 description: >- # `>-` means to ignore newlines until "baseurl:"
   The (Official) Synagogue of Satan is not assosiated anybody.
-  We are a Non-Profit organization in history openly dedicated to the
+  We are a Non-Profit organization openly dedicated to the
   acceptance of Man's true nature—that of a carnal beast, living in a
   cosmos that is indifferent to our existence.
 baseurl: "/" # the subpath of your site, e.g. /blog
